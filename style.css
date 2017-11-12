@@ -11,6 +11,10 @@ header {
 header nav {
   float: right;
 }
+nav ul{
+  padding: 0;
+  margin: 40px 0 0 0;
+}
 header ul li {
   display: inline;
   margin-right: 10px;
