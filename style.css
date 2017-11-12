@@ -83,7 +83,7 @@ div.questions a.btn:hover{
 }
 footer{
   border-top: 1px solid #ccc;
-  margin: 80px 0 0 0;
-  padding: 20px 0 0 0;
+  margin-top: 80px;
+  padding-top:20px;
   color: #ccc;
 }
